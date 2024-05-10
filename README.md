@@ -22,9 +22,9 @@
 <h3>This project is licensed under the ISC License</h3>
 <h1>NPM Usage📍</h1>
 <p>You Can Run This Project By Using This  npx Cammand</p>
-<h3>npm i student_management_by_rimsha</h3>
+<h3>🔗npx i student_management_by_rimsha</h3>
 <h2>Feel Free To Ask Anything Here Is My Linkdin Link📍</h2>
-<h3>https://www.linkedin.com/in/rimsha-sheikh-hardwork-developer/</h3>
-<h1>Thank You For Exploring My Repo💖</h1>
+<h3>🔗https://www.linkedin.com/in/rimsha-sheikh-hardwork-developer/</h3>
+<h1>Thank You For Exploring My Repo💖🌸</h1>
 </i>
 

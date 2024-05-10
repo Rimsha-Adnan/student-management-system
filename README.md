@@ -1,4 +1,5 @@
-<h1>Student Management System📒</h1>
+<i>
+<h1><b>Student Management System📒</b></h1>
 <h1>Author : Rimsha Sheikh✨</h1>
 <h1>Description📌</h1>
 <p>RIMSHA Student Management System is a command-line application built with Node.js that allows educational institutions to manage student information, enrollments, fee payments, and more. This system provides administrators, teachers, and students with an intuitive interface to perform various tasks efficiently.</p>
@@ -25,3 +26,5 @@
 <h2>Feel Free To Ask Anything Here Is My Linkdin Link📍</h2>
 <h3>https://www.linkedin.com/in/rimsha-sheikh-hardwork-developer/</h3>
 <h1>Thank You For Exploring My Repo💖</h1>
+</i>
+
